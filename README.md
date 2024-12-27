@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @navritas
 - 👀 I’m interested in software development, UI/UX web designing, product design and creating sustainable, effective solutions!
 - 🌱 I’m currently learning C++, JavaScript and Solidworks 
-- 📫 How to reach me: Email: navritasingh1@gmail.com, Instagram: @navritas_
+- 📫 How to reach me: Email: navritasingh1@gmail.com, Linkedin: www.linkedin.com/in/navrita-singh, Instagram: @navritas_
 - 😄 Pronouns: She/Her
 
 <!---
